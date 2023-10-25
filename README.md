@@ -1,5 +1,5 @@
 ﻿# posts-server
-same .ENV:
+sample .ENV:
 
 PORT=3001
 NODE_ENV="development"
