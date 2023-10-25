@@ -1,5 +1,5 @@
 ﻿# posts-server
-sample .ENV:
+sample .env:
 
 PORT=3001
 
